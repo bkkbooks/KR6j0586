@@ -34,9 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0586_000.yaml, hash: 'sha256:b3b73b633831b39a33d6791718a824e667fa225716e532969deb470fa994a43a'}
-  - {seq: 1, filename: KR6j0586_001.yaml, hash: 'sha256:dcb702f5188e191498799f191a721d575cdac8f848e2541eed0b52487f8ec99d'}
+  - {seq: 1, filename: KR6j0586_001.yaml, hash: 'sha256:7349a88c92661f05e67694f3c28b840d92d0ec2b17cb55016dbceb7de00930b5'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0586_001.markers.yaml, hash: 'sha256:d9e06d157e457600d7d7711f3e64af3dea15459a8c206949a0c6769b8fc2586e'}
+  - {seq: 0, role: markers, filename: assets/KR6j0586_000.markers.yaml, hash: 'sha256:40cc689ba2e4f4239d6caf50f02b3b00b2fb9f7b1ab9207c21370b3e504f040e'}
+  - {seq: 1, role: markers, filename: assets/KR6j0586_001.markers.yaml, hash: 'sha256:9480918ce7613d5e247f6482ee16a35b7689b12241f4e07d88fae9cd66aad950'}
 table_of_contents:
 - ref:
     seq: 1
@@ -48,7 +49,4 @@ table_of_contents:
   label: 佛說華積陀羅尼神呪經
   type: juan
   level: 1
-hash: sha256:827a12adfb877ac9474d52cf74b26df16b460be697176f7d462b930ac2515de5
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:57fe44617dea00d92bffc0549d65f48db75ff1ec318cba3a6b801ea08247d7a2
